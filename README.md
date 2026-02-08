@@ -36,12 +36,3 @@ You can access the live application at [https://e-shopit.vercel.app/](https://e-
 ![Payment](https://res.cloudinary.com/dxguqzge7/image/upload/v1682853693/Payment_xrucd9.png)
 ![Cart](https://res.cloudinary.com/dxguqzge7/image/upload/v1682853693/Cart_zpzmwr.png)
 ![UserProfile](https://res.cloudinary.com/dxguqzge7/image/upload/v1682853694/User_lyfday.png)
-
-## Backend
-
-The backend of the application is built with NodeJS and ExpressJS and uses a MongoDB database to store the product and user data. The source code for the backend can be found at [https://github.com/Saurabh-8585/MERN-E-Commerce-Backend](https://github.com/Saurabh-8585/MERN-E-Commerce-Backend).
-
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
